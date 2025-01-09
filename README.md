@@ -6,6 +6,6 @@
 
 ### Authors:
 
-Seweryn Stalinger
-Yuliia Vinnichuk
+Seweryn Stalinger,
+Yuliia Vinnichuk,
 Nazar Zhyliuk
