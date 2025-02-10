@@ -6,5 +6,4 @@
 
 ### Authors:
 
-Seweryn Stalinger,
-Nazar Zhyliuk
+Seweryn Stalinger
