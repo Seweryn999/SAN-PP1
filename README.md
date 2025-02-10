@@ -7,5 +7,4 @@
 ### Authors:
 
 Seweryn Stalinger,
-Yuliia Vinnichuk,
 Nazar Zhyliuk
